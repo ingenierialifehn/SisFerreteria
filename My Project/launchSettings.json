@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SisFerreteria": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
