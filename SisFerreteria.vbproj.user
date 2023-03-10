@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BuscarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Correlativos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarCorrelativos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarSucursales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarTipoEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarTransportistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarCorrelativos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarSucursales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarTipoEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarTransportistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionarUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImprimirFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PagoFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Personas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarCorrelativos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarSucursales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarTipoEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarTransportistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarUnidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sucursales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiposDeEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transportistas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnidadesDeMedida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSetFactura.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

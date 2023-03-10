@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SisFerreteria", "SisFerreteria.vbproj", "{0717C4D9-337B-48BC-AE9E-2EB969AA4904}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{F7BD8DCF-5E15-4A03-9C5D-7886B8B5DDC4}"
+	ProjectSection(SolutionItems) = preProject
+		Conexion.vb = Conexion.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0717C4D9-337B-48BC-AE9E-2EB969AA4904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0717C4D9-337B-48BC-AE9E-2EB969AA4904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0717C4D9-337B-48BC-AE9E-2EB969AA4904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0717C4D9-337B-48BC-AE9E-2EB969AA4904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C9269E-8E27-4DD1-9836-3D3957045084}
+	EndGlobalSection
+EndGlobal
