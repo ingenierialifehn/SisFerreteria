@@ -163,7 +163,6 @@ Public Class PagoFacturas
                 con.Close()
                 MsgBox("Factura guardada con éxito", vbReadOnly, "SisFerreteria")
                 ImprimirFactura.Show()
-                Factura.rdlc.show()
                 Me.Hide()
                 RegistroFacturas.DataGridView1.Rows.Clear()
                 RegistroFacturas.Refresh()
